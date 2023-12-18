@@ -25,7 +25,7 @@
 
 ## Contato
 Sinta-se à vontade para entrar em contato comigo por meio das minhas redes sociais:
-- [LinkedIn](www.linkedin.com/in/jonatas-freire-dev)
+- [LinkedIn](https://www.linkedin.com/in/jonatas-freire-dev/)
 - Email: jonatasfreire.dev@gmail.com
 
 Vamos nos conectar! Adoro conhecer novas pessoas e discutir sobre tecnologia.
