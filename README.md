@@ -13,7 +13,7 @@
   - **Pesquisa sobre AirBnB:** Colaborei em uma pesquisa que investigou o impacto das datas nas variações de preços no site AirBnB por meio de análise de dados.
 
 ## Habilidades
-- 💻 **Linguagens:** Java, C#, Python, JavaScript.
+- 💻 **Linguagens:** Java,Spring, C#, Python, JavaScript.
 - 🗄️ **Banco de Dados:** MySQL.
 - 🌐 **Front-end:** HTML, CSS.
 - 🌐 **Inglês:** Intermediário.
