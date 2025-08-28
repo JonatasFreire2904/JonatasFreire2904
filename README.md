@@ -3,15 +3,14 @@
 ## Sobre Mim
 - 👨‍🎓 Sistemas da Informação no IFMG.
 - 🌱 Atualmente explorando e aprendendo novas tecnologias.
-- 💼 Desenvolvedor .NET desde 2019, apaixonado por backend e tecnologias de ponta.
+- 💼 Desenvolvedor .NET desde 2022, apaixonado por backend e tecnologias de ponta.
 - 🌆 Residindo em Sabará, Minas Gerais, Brasil.
-- 🏡 Aberto a oportunidades presenciais ou remotas.
+
 
 ## Experiência Profissional
 - Desenvolvimento de APIs REST utilizando **ASP.NET MVC** e **.NET 6** para integrações robustas com gateways de pagamento e serviços de entrega.  
 - Gestão e otimização de bancos de dados **SQL Server**, incluindo suporte a funcionalidades como cadastro de produtos, gerenciamento de estoque e relatórios de vendas.  
-- Implementação de pipelines CI/CD com **Azure DevOps** e **AWS**, utilizando práticas como deploy blue-green para garantir estabilidade.  
-- Criação de soluções para gestão da saúde pública, integrando unidades de saúde e gerando indicadores em tempo real por meio de tecnologias como **SOAP/XML**.  
+- Criação de soluções para gestão de vendas, e modulos de RH, integrando unidades e gerando indicadores em tempo real por meio de tecnologias como **SOAP/XML**.  
 - Desenvolvimento de sistemas front-end dinâmicos e responsivos com **jQuery** e **Bootstrap**.  
 - Aplicação de testes unitários e integrados para garantir a qualidade do código e a integridade do sistema.
 
@@ -32,6 +31,6 @@ Sinta-se à vontade para entrar em contato comigo por meio das minhas redes soci
 - [LinkedIn](https://www.linkedin.com/in/jonatasfreire/)
 - Email: jonatasfreire.dev@gmail.com
 
-Vamos nos conectar! Adoro conhecer novas pessoas e discutir sobre tecnologia.
+
 
 
