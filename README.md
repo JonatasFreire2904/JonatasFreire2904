@@ -19,7 +19,7 @@ Desenvolvedor Full Stack com foco em **.NET** e **React**, atuando desde 2022 na
 **Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_6+-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -53,7 +53,7 @@ Desenvolvedor Full Stack com foco em **.NET** e **React**, atuando desde 2022 na
 ## 💼 Experiência Profissional
 
 ### Integrações & APIs
-- Desenvolvimento de **APIs REST** com **ASP.NET MVC** e **.NET 6**, integrando gateways de pagamento e serviços de entrega com alta confiabilidade
+- Desenvolvimento de **APIs REST** com **ASP.NET MVC** e **.NET**, integrando gateways de pagamento e serviços de entrega com alta confiabilidade
 - Integrações entre sistemas corporativos via **SOAP/XML**, gerando indicadores em tempo real
 
 ### Sistemas de Gestão
@@ -72,18 +72,7 @@ Desenvolvedor Full Stack com foco em **.NET** e **React**, atuando desde 2022 na
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasFreire2904R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasFreire2904&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
 
 ## 🧠 Soft Skills
 
