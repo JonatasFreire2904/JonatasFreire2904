@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack com foco em **.NET** e **React**, atuando desde 2022 na construção de sistemas robustos para gestão empresarial. Graduando em Sistemas de Informação pelo IFMG.
+Desenvolvedor Full Stack com foco em **.NET** e **React**, atuando desde 2025 na construção de sistemas robustos para gestão empresarial. Graduando em Sistemas de Informação pelo IFMG.
 
 - 🌆 Sabará, Minas Gerais, Brasil
 - 💼 Experiência com desenvolvimento .NET
